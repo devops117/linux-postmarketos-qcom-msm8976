@@ -1,1 +1,0 @@
-# linux-postmarketos-qcom-msm8976
